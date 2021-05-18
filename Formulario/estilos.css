@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+    border: 0px;
+}
+.cabeza{
+    background-color: rgb(128, 118, 145);
+    color: rgb(128, 41, 0);
+    height: 40px;
+    padding-top: 9px;
+}
+.cabeza2{
+    border-top: black solid 1px;
+    height: 40px;
+    padding-top: 9px;
+    font-size: 20px;
+}
+.verde{
+    background-color:rgb(9, 0, 128);
+}
+.rojo{
+    background-color: red;
+}
